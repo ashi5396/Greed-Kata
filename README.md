@@ -1,5 +1,5 @@
-# Ashi Chamarasinghe
 # Greed Kata Assignment
+### Ashi Chamarasinghe
 
 Questions and assumptions
 1. What is Greed Kata and how to play it?

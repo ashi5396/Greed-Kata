@@ -15,7 +15,7 @@ Different Paths
 1. Data Structure : ArrayList vs List
    - First started with an arrayList.To sum triplScore,need to keep track of count for each variable. 
 		But with arrayList it is hard since I have to go through each element every time. However,with List, 
-		it does give me option to group by values and their counts. Therefore, decided to use a List. 
+		it does give me the option to group by values and their counts. Therefore, decided to use a List. 
 2. Interface vs Abstraction
    - Was not entirely sure which one to use. Since I had different rules, decided to use interface rather than abstraction. I do not 		have any other inheritance in my program therefore decided not to use abstraction. 
 3. How many player

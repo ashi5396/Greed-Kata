@@ -33,7 +33,7 @@ namespace Greed
             }
             
             /// <summary>
-            /// Calculates the total score of the player. It calls other functions such --------------------------
+            /// Calculates the total score of the player. It calls other functions such as CalculateTriple and CalculateEachTripleValue.
             /// </summary>
             /// <param name="score">
             /// List of random values

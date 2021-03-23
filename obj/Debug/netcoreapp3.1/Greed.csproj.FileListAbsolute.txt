@@ -1,0 +1,13 @@
+C:\Users\sujee\source\repos\Greed\bin\Debug\netcoreapp3.1\Greed.exe
+C:\Users\sujee\source\repos\Greed\bin\Debug\netcoreapp3.1\Greed.deps.json
+C:\Users\sujee\source\repos\Greed\bin\Debug\netcoreapp3.1\Greed.runtimeconfig.json
+C:\Users\sujee\source\repos\Greed\bin\Debug\netcoreapp3.1\Greed.runtimeconfig.dev.json
+C:\Users\sujee\source\repos\Greed\bin\Debug\netcoreapp3.1\Greed.dll
+C:\Users\sujee\source\repos\Greed\bin\Debug\netcoreapp3.1\Greed.pdb
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.AssemblyInfoInputs.cache
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.AssemblyInfo.cs
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.csproj.CoreCompileInputs.cache
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.dll
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.pdb
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.genruntimeconfig.cache
+C:\Users\sujee\source\repos\Greed\obj\Debug\netcoreapp3.1\Greed.csprojAssemblyReference.cache
